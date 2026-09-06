@@ -87,6 +87,7 @@ repo to install.
   - [**GKE Workload Scaling**](./skills/cloud/gke-workload-scaling)
   - [**GKE Workload Troubleshooting Skill**](./skills/cloud/gke-workload-troubleshooting)
   - [**Google Cloud Filestore Autoscale**](./skills/cloud/google-cloud-filestore-autoscale)
+  - [**Google Cloud Filestore NFS File Browser**](./skills/cloud/google-cloud-filestore-nfs-browser)
   - [**Google Cloud global external Application Load Balancer Configuration Skill**](./skills/cloud/google-cloud-global-frontend-configuration)
   - [**Google Cloud Networking Observability Expert**](./skills/cloud/google-cloud-networking-observability)
   - [**Google Cloud Storage Basics**](./skills/cloud/google-cloud-storage-basics)
